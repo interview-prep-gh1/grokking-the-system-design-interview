@@ -1,1 +1,1 @@
-# grokking-the-system-design-interview
+Grokking the System Design Interview (Design Gurus)
